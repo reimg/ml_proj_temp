@@ -1,1 +1,1 @@
-# trade-c
+# trade-cor
