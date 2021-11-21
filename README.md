@@ -1,3 +1,3 @@
 # trade-corner
 
-Cron s
+Cron scri
