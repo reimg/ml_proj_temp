@@ -1,3 +1,3 @@
 # trade-corner
 
-Cron script to pe
+Cron script to perform
