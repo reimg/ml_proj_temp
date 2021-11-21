@@ -1,3 +1,3 @@
 # trade-corner
 
-Cron scri
+Cron script
