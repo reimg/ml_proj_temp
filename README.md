@@ -1,3 +1,3 @@
 # trade-corner
 
-Cron script to perform tra
+Cron script to perform trades
