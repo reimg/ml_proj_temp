@@ -1,3 +1,3 @@
 # trade-corner
 
-Cron script to perform trades in Po
+Cron script to perform trades in Poké
