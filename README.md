@@ -1,3 +1,3 @@
 # trade-corner
 
-Cron script to perform trades in Pokémon Cr
+Cron script to perform trades in Pokémon Cry
