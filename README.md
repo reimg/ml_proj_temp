@@ -1,3 +1,3 @@
 # trade-corner
 
-Cron script to perform trades in Pokémon Crystal, based on Háčky's ori
+Cron script to perform trades in Pokémon Crystal, based on Háčky's orig
