@@ -4,4 +4,4 @@ Cron script to perform trades in Pokémon Crystal, based on Háčky's original f
 
 ## Setup
 
-Create `config.j
+Create `config.jso
