@@ -6,4 +6,4 @@ Cron script to perform trades in Pokémon Crystal, based on Háčky's original f
 
 Create `config.json` using the example file provided.
 
-This script should be run as a 
+This script should be run as a cr
