@@ -10,4 +10,4 @@ This script should be run as a cronjob, as it will exit once it's completed; we 
 
 ## Credits
 
-Written by [thomasnet](https://git
+Written by [thomasnet](https://gith
